@@ -1,6 +1,6 @@
 # IP Address Tracker 🔍🌐
 
-![Desktop Demo](./demo/desktop.png)
+![Desktop Demo](./demo/desktop-demo.png)
 
 ## 📌 Table of Contents 
 
@@ -53,13 +53,13 @@ One of the key learnings from this project was integrating external APIs to fetc
 
 ### Mobile Screenshots:
 
-<p align="center"><img src="./demo/mobile-demo.png"></p>
-<p align="center"><img src="./demo/mobile-error-demo.png"></p>
+<p align="center"><img src="./demo/mobile-demo.png" width="50%"></p>
+<p align="center"><img src="./demo/mobile-error-demo.png" width="50%"></p>
 
 ## 🔗 Useful Links
 
-- [Live Demo](#) 
-- [Project Repository](#)
+- [Live Demo](https://cauebf-ip-address-tracker.vercel.app) 
+- [Project Repository](https://github.com/Cauebf/ip-address-tracker?tab=readme-ov-file#ip-address-tracker-)
 
 ## 🤝 Contributing
 

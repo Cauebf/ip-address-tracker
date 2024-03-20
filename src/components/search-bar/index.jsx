@@ -30,7 +30,7 @@ const SearchBar = ({ handleSearch, error }) => {
                         onKeyDown={handleKeyDown} 
                     />
                     <SearchButton onClick={handleClick}>
-                        <img src="/src/images/icon-arrow.svg" alt="Arrow icon" />
+                        <img src="public/svg/icon-arrow.svg" alt="Arrow icon" />
                     </SearchButton>
                 </InputContainer>
             </CardContainer>
@@ -41,7 +41,7 @@ const SearchBar = ({ handleSearch, error }) => {
 export default SearchBar;
 
 const CardContainer = styled.div`
-    background: url('/src/images/pattern-bg-desktop.png') center/cover;
+    background: url('public/images/pattern-bg-desktop.png') center/cover;
     height: 260px;
     display: flex;
     align-items: center;
@@ -50,7 +50,7 @@ const CardContainer = styled.div`
     padding: 30px;
 
     @media (max-width: 480px) {
-        background: url('/src/images/pattern-bg-mobile.png') center/cover;
+        background: url('public/images/pattern-bg-mobile.png') center/cover;
         height: 300px;
     }
 `;

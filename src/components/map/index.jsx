@@ -9,7 +9,7 @@ const Map = ({ lat, lng }) => {
     const position = [lat, lng]
     
     const customIcom = new Icon({
-        iconUrl: "/src/images/icon-location.svg",
+        iconUrl: "public/svg/icon-location.svg",
         iconSize: [35, 45]
     })
 
