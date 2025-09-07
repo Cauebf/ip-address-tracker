@@ -2,17 +2,22 @@
 
 ![Desktop Demo](./demo/desktop-demo.png)
 
-## 📌 Table of Contents 
+## 📌 Table of Contents
 
-- [Overview](#-overview)
-- [Challenge Description](#-challenge-description)
-- [Technologies Used](#-technologies-used)
-- [What I Learned](#-what-i-learned)
-- [Key Takeaways](#-key-takeaways)
-- [Project Screenshots](#-project-screenshots)
-- [Useful Links](#-useful-links)
-- [Contributing](#-contributing)
-- [Contact](#-contact)
+- [IP Address Tracker 🔍🌐](#ip-address-tracker-)
+  - [📌 Table of Contents](#-table-of-contents)
+  - [🌐 Overview](#-overview)
+  - [📝 Challenge Description](#-challenge-description)
+  - [💻 Technologies Used](#-technologies-used)
+  - [🌱 What I Learned](#-what-i-learned)
+  - [🚀 Key Takeaways](#-key-takeaways)
+  - [🖼️ Project Screenshots](#️-project-screenshots)
+    - [Desktop Screenshots:](#desktop-screenshots)
+    - [Mobile Screenshots:](#mobile-screenshots)
+  - [🔗 Useful Links](#-useful-links)
+  - [🚀 How to Run the Project](#-how-to-run-the-project)
+  - [🤝 Contributing](#-contributing)
+  - [💬 Contact](#-contact)
 
 ## 🌐 Overview
 
@@ -58,14 +63,50 @@ One of the key learnings from this project was integrating external APIs to fetc
 
 ## 🔗 Useful Links
 
-- [Live Demo](https://cauebf-ip-address-tracker.vercel.app) 
+- [Live Demo](https://cauebf-ip-address-tracker.vercel.app)
 - [Project Repository](https://github.com/Cauebf/ip-address-tracker?tab=readme-ov-file#ip-address-tracker-)
+
+## 🚀 How to Run the Project
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/Cauebf/ip-address-tracker.git
+   cd ip-address-tracker
+   ```
+
+2. **Install dependencies**:
+
+   ```bash
+   npm install
+   ```
+
+3. **Set up environment variables**:
+
+   Create a `.env` file in the root directory and add the following variables:
+
+   ```env
+   VITE_IP_API_KEY=your_ipify_api_key
+   ```
+
+4. **Start the development server**:
+
+   ```bash
+   npm run dev
+   ```
+
+5. **Build the app for production**:
+
+   ```bash
+   npm run build
+   npm start
+   ```
 
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or bug fixes.
 
-## 💬 Contact 
+## 💬 Contact
 
 For any inquiries or collaboration opportunities, feel free to reach out via:
 
