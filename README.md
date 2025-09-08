@@ -34,10 +34,10 @@ The challenge included the following tasks:
 
 ## 💻 Technologies Used
 
-- [React](https://reactjs.org/)
-- [Styled Components](https://styled-components.com/)
-- [React Leaflet](https://react-leaflet.js.org)
-- [IP Geolocation API by IPify](https://geo.ipify.org/)
+- [**React**](https://reactjs.org/) — JavaScript library for building dynamic and component-based user interfaces.
+- [**Styled Components**](https://styled-components.com/) — Library for writing scoped CSS directly in JavaScript using tagged template literals.
+- [**React Leaflet**](https://react-leaflet.js.org) — React wrapper for Leaflet to render interactive maps with location markers.
+- [**IP Geolocation API by IPify**](https://geo.ipify.org/) — API that provides IP-based location data, including city, region, timezone, and ISP.
 
 ## 🌱 What I Learned
 
